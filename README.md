@@ -1,5 +1,6 @@
 # sales_forecasting
-Sales forecasting using multiple models - Seasonal Naive, Holt-Winters, ARIMA, SARIMA, and Linear Regression Model
+
+#### Sales forecasting using multiple models - Seasonal Naive, Holt-Winters, ARIMA, SARIMA, and Linear Regression Model
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Project Objective
