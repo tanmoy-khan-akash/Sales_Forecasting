@@ -18,4 +18,7 @@ Models covered in the notebook include:
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Conclusion
-We considered different time-series models as well as a regression model for time series forecasting. From our results, we saw that the linear regression model outperformed the other time-series models. Therefore, for this dataset, we could use a regression model, rather than a time-series model, to forecast sales. One of the main assumptions of regression models is that the patterns in the historical data will be repeated in the future, and since our data was highly seasonal and had a linear trend, it made sense that the linear regression model outperformed the other models.
+#### We considered different time-series models as well as a regression model for time series forecasting. From our results, we saw that the linear regression model outperformed the other time-series models. Therefore, for this dataset, we could use a regression model, rather than a time-series model, to forecast sales. One of the main assumptions of regression models is that the patterns in the historical data will be repeated in the future, and since our data was highly seasonal and had a linear trend, it made sense that the linear regression model outperformed the other models.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+These resources are perfect for both beginners and advanced learners.
