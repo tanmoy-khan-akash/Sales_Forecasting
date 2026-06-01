@@ -1,4 +1,4 @@
-# Sales_Forecasting
+# Sales_Forecasting_Using_Time_Series_Models
 
 #### Sales forecasting using multiple models - Seasonal Naive, Holt-Winters, ARIMA, SARIMA, and Linear Regression Model
 ------------------------------------------------------------------------------------------------------------------------------------------
